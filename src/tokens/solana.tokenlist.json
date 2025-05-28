@@ -1,9 +1,27 @@
 {
-  "chainId": 101,
-  "address": "683Dij57RhzpDQKohbD3vwt6ZTRrmbC4bdJRWASvG11a",
-  "symbol": "PKK",
-  "name": "Pankaka",
-  "decimals": 9,
-  "logoURI": "",
-  "tags": ["utility-token"]
+  "name": "Solana Token List",
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/solana.svg",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens used for accessing application functionality"
+    }
+  },
+  "timestamp": "2025-05-28T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "683Dij57RhzpDQKohbD3vwt6ZTRrmbC4bdJRWASvG11a",
+      "symbol": "PKK",
+      "name": "Pankaka",
+      "decimals": 9,
+      "logoURI": "https://example.com/logo.png",
+      "tags": ["utility-token"]
+    }
+  ]
 }
